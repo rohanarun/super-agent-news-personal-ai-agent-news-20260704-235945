@@ -1,0 +1,35 @@
+{
+  "citations": [
+    "[finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBzRmZzRVpqYWpzSlQ2Tk5FcTY5ZG5IM0V0bkVQMk1PWlAxMmJHbFE1YzJRNmFnMGswamw1V2lJS2JoRzRWNTRROTJrY1I5M243eUpOb2FNNzljeHlSbTJ2SjhSQXpTNTB1elBaVGVOTTlMTmx3Umc?oc=5)",
+    "[engadget.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE?oc=5)",
+    "[mashable.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1QUdiNldidGgzUjdfTG5POUg3N0hQWnUxMEJFZ2pkU3JkTUJZNzM5N1V2bTRERVV3LXhKU01HNnNtb2dyUW5GeU1xaXQ4RzNMTkVfVU9Hcw?oc=5)",
+    "[electrive.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0M0alVsVWtERF8wV0tpMXR2LUtiaGYwUUFHNGM0eUdWS3Q5TjRQUm9aMUh2U0R3QTVUY0RjcnVKZkRDMWFNWVdRd25Td0tocUMtNUllcG9sUjByVUNzY2dqM1J1NWctb2YyTUhQbnRHX2kyMEE5eVA0cU9fUGEydkNiVG9GNk4wUTdWUUpn?oc=5)",
+    "[tradingview.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGtRZUllbXdTTHpwYktZTU1fQmRyVzFDdXAwczJVdXJhS01wc0FlbFR2Uzk1LS1LYkZDdnJyWjFyRUcwT3BHTHVKVGhIVS1iT0htUTRqeEctVHZSSHNycUxLSXFwOWJOU05FcmQxaWtNV3IzdWszbXZFMkNmV01wT08wSjVXZVlONjRBNlBsS3QyNHpUdC1kMi1obkZZdWZvZEJvMjYtdVZiVi1oWHFjdG1LTDRFNDFOeTdhWGlyaVp5aFlBLW1oVkoxSQ?oc=5)",
+    "[finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFB5aTVBaWZnZnA5d2FEcWNGVG5PeHJKZEpLMGxDWWpIdFRnNVlyOTgtZGJYSHFKYWMxbkExTUlMZFdTbTdjcEVmczZVWlNJTmpuTkR5dVVlaWdlbWhpRkgtOVpDaE1DTy00cXl0aDJTUFFPUzVDd2c?oc=5)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)",
+    "[tools.jlvextension.com](https://tools.jlvextension.com/hero-section-generator/)"
+  ],
+  "design_plan": "rng=1337; hero_math=maxw1120,lines=2-3,centered; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=competitors_all; button_contrast=black/white; animations_guarded=true",
+  "generated_at": "2026-07-04T23:59:51.967429+00:00",
+  "headline": "Personal AI Agent Market Brief \u2014 July 2026",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A frequently refreshed editorial brief for buyers and builders tracking personal AI agents. We cover Siri\u2019s constrained rollout, Gemini\u2019s expansion, Grok\u2019s CarPlay push, ChatGPT\u2019s agent direction, and experimental work across the market \u2014 with a clear Super perspective on why durable computer-use agents with a reusable computer-use cache matter for real workflows."
+}
